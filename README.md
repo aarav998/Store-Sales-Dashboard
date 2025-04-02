@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/51b944e3-cc6e-418e-8623-5236ae6919c0)
 
 Power BI Sales Data Analysis
 
